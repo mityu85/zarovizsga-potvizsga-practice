@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.zarovizsga.people;
+package hu.nive.ujratervezes.zarovizsga.people;
 
 import org.junit.jupiter.api.Test;
 
@@ -12,4 +12,4 @@ class PeopleTest {
         int males = people.getNumberOfMales("src/test/resources/people.csv");
         assertEquals(545, males);
     }
-}*/
+}
